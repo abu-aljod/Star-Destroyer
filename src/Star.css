@@ -1,0 +1,12 @@
+.star {
+    font-size: 28;
+    position: absolute;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 2px solid transparent;
+}
+
+.star:hover {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px gold ;
+}
